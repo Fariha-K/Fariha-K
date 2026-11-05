@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="fariha_github_banner.png" width="100%" alt="Fariha Khan | Customer Support & Operations">
+</p>
 # Hi, I'm Fariha 👋
 
 ## Junior Data Analyst | Healthcare Analytics | Excel | SQL | Data Visualisation
